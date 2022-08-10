@@ -1,4 +1,2 @@
-A journalists asks a programmer what makes bad code
+A journalist asked a programmer: what makes bad code?
 No comment
-
-If having a coffee in the morning doesn't wake you up, try deleting a table in a production database instead.
